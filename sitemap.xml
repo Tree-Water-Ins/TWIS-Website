@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.treewaterinsurance.com/home.html</loc>
-	</url>
-	<url>
 		<loc>http://www.treewaterinsurance.com/benefits.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,8 @@
 	</url>
 	<url>
 		<loc>http://www.treewaterinsurance.com/medplantypes.html</loc>
+	</url>
+	<url>
+		<loc>http://www.treewaterinsurance.com/index.html</loc>
 	</url>
 </urlset>
